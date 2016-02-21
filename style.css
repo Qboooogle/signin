@@ -1,0 +1,70 @@
+/*--HW9_signin of web2.0, qiangbo_14331229,group 11*/
+/*the .css of the signup*/
+body {
+	background-image:url("bg.jpg");
+}
+#inform {
+	
+	position:absolute;
+	right:0px;
+	top:-10px;
+	width: 374px;
+	height: 754px;
+	border: 1px solid black;
+	margin: 0px auto;
+	padding: 0px;
+	font-family:  sans-serif;
+	font-weight: bold;
+	background-color: #e2ee;
+	border-radius: 0px;
+	background-image:url("signinbg.jpg");
+}
+h1 {
+	margin-top:160px;
+	text-align: center;
+}
+form {
+	width: 440px;
+	padding: 10px;
+	margin: auto;
+	font-size: 20px;
+}
+form div {
+	margin: 6px 200px 0px 0px;
+}
+input {
+	margin-top: 1px;
+	margin-right: 20px;
+	height: 30px;
+	width: 280px;
+	font-size: 18px;
+}
+form p {
+	display: inline;
+	font-size: 10pt;
+	font-family: 'fangsong';
+	color:red;
+}
+.right {
+	color: red;
+}
+#reset, #submit {
+	border: none;
+	outline: none;
+	border-radius: 12px;
+	font-weight: bold;
+	width: 120px;
+	height: 30px;
+	background-color: #453123;
+	color: ;
+	box-shadow: 0px 10px 3px rgb(33,40,55);
+	position: relative;
+}
+#reset:active, #submit:active {
+	top: 5px;
+	box-shadow: 0px 2px 3px #0c51c9;
+}
+h2 {
+	margin-left: 20px;
+	font-size: 18px;
+}

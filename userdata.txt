@@ -1,0 +1,10 @@
+username=caitzh&studentid=14331010&phone=18819253584&email=1262074036@qq.com&
+username=caitzh1&studentid=14331011&phone=18819253581&email=1262074036@qq.co&
+username=caitzh2&studentid=14331012&phone=18819253582&email=1262074032@qq.com&
+username=caitzh3&studentid=14331013&phone=18819253583&email=1262074033@qq.com&
+username=qwqwrw&studentid=24252222&phone=11111111111&email=111111@qq.com&
+username=aaaaaaa&studentid=21323414&phone=24343224322&email=f42341@qq.com&
+username=qrqwre&studentid=12314121&phone=24342424244&email=1343@qq.com&
+username=qrwerwq&studentid=12222222&phone=11111122222&email=1214434@qq.com&
+username=qewrer&studentid=12321222&phone=12214343431&email=13333@qq.com&
+username=qwewqre&studentid=22222222&phone=23322222222&email=13424@qq.com&
